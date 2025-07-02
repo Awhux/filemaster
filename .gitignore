@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+filemaster
+*.o
+*.exe
+
+# IDE files
+.vscode/ipch/
+.vscode/.browse.c_cpp.db*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
+core
+vgcore.*
+
+# Temporary files
+*~
+*.tmp
+*.bak
